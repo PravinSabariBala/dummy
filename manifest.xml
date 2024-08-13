@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-    <app appid="fnlikdaappfnfafilacafihbpohdncph">
-        <updatecheck codebase="https://github.com/PravinSabariBala/dummy/raw/bala/dist.crx" version="1.03.17"/>
+    <app appid="doanhbpckaophhbdhgoegemcmnmpfmkh">
+        <updatecheck codebase="https://github.com/PravinSabariBala/dummy/raw/bala/dist.crx" version="1.03.18"/>
     </app>
 </gupdate>
